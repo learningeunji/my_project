@@ -20,7 +20,7 @@ plugins: [date_range_picker]
             <p>{{site.data.profile.email}}</p>
             <p></p>
           </div>
-          <div class="btn-group w-100" role="group" aria-label="resume">
+          <div class="btn-group w-100" role="group" aria-label="이력서 및 자기소개서">
             {% for resume in site.data.profile.resumes %}
               {% if resume.link != '' %}
                 <a href="{{resume.link}}" target="_blank" class="btn btn-success">{{resume.label}}</a>
