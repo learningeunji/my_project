@@ -11,7 +11,7 @@
         },
         {
             "label": "PORTFOLIO",
-            "link": "https://swmaestro.org/sw/cmmn/file/fileDown.do?atchFileId=a269afb2417d46ff9a2167942b728001&fileSn=3"
+            "link": ""
         }
     ],
     "socials": [
@@ -37,7 +37,7 @@
             "name": "youtube",
             "icon": "mdi-youtube",
             "class": "btn-youtube",
-            "link": "https://www.youtube.com/channel/UCLaPIscAkcngYMq6IAT6RDw"
+            "link": ""
         },
         {
             "name": "skype",
