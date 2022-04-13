@@ -1,12 +1,12 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
+        "image": "assets/img/projects/kaka_diary.png",
         "title": "강아지 일기장",
         "description": "GUI tkinter 기반",
         "link": "https://colab.research.google.com/drive/1oOji9_lt-XrUrgqWyB7yBT083GXKoHEs?usp=sharing"
     },
     {
-        "image": "assets/img/projects/project2.jpg",
+        "image": "assets/img/projects/eunji_simple.png",
         "title": "자기소개 페이지",
         "description": "HTML 활용",
         "link": "https://github.com/learningeunji/eunji_simple"
