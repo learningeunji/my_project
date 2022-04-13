@@ -10,11 +10,5 @@
         "title": "자기소개 페이지",
         "description": "HTML 활용",
         "link": "https://github.com/learningeunji/eunji_simple"
-    },
-    {
-        "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
-        "description": "My Description 03",
-        "link": "#"
     }
 ]
